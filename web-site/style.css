@@ -1,0 +1,46 @@
+/* Reset some default style */
+* { 
+    margin: 0;
+    padding: 2;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the body */
+
+body {
+    background-color: black;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Style the main container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+
+/* style heading */
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+p {
+    font-size:18px;
+    margin-bottom: 10px;
+}
+
+/* Style buttons 
+
+.button {
+    display: inline-block;
+    background: #007bff;
+}
+
+*/
